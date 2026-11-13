@@ -1,4 +1,4 @@
-# Axora 💜
+# java-expense-tracker💜
 
 > **Value in every choice. Balance in every step.**
 
